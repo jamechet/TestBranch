@@ -1,4 +1,4 @@
 # TestBranch
-feature1
 feature2
+feature1
 feature3
